@@ -16,7 +16,7 @@
      git clone https://github.com/EastTimorGhostSecurity/4n0nMail.git
      cd 4n0nMail
      pip install -r requirements.txt
-     python3 4n0nMailV1.1.py
+     python3 4n0nMail.py
 
 🍏 macOS 🖥️
 
@@ -25,7 +25,7 @@
      git clone https://github.com/EastTimorGhostSecurity/4n0nMail.git
      cd 4n0nMail
      pip install -r requirements.txt
-     python3 4n0nMailV1.1.py
+     python3 4n0nMail.py
 
 📱 Termux (Android) 📲
 
@@ -34,4 +34,4 @@
      git clone https://github.com/EastTimorGhostSecurity/4n0nMail.git
      cd 4n0nMail
      pip install -r requirements.txt
-     python3 4n0nMailV1.1.py
+     python3 4n0nMail.py
